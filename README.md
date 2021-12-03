@@ -1,6 +1,6 @@
 ### Hi there 👋, I m Mahedi Hasan Rasel
 #### I am a sowftware developer 
-![I am a sowftware developer ](https://scontent.fdac27-1.fna.fbcdn.net/v/t1.6435-9/167125185_1265451380516861_5110891336454741379_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=174925&_nc_eui2=AeFSKZ26oSXh6tT4N-4cTUQ9vw-XsogsTeq_D5eyiCxN6otnfFzlIvtlp_P3Kez3zwnRpn3twhhQqouH9Dtx1GEC&_nc_ohc=nH0A_s9mCP0AX-MxePh&_nc_ht=scontent.fdac27-1.fna&oh=f2a3767dc6cbbef6a29126b545f30298&oe=61D03CCA)
+![I am a sowftware developer ](https://scontent.fdac27-1.fna.fbcdn.net/v/t1.6435-9/76204104_890681584660511_7069189953564966912_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=174925&_nc_eui2=AeE8V7j9oqEi5AYUpEIqW18cbR1hkR3MSP9tHWGRHcxI_35r0NOkalnuFAl2f57PbmW3kqCMQFylbifJK-XM3FXU&_nc_ohc=FI9pkkAH4cgAX8EoFVl&_nc_ht=scontent.fdac27-1.fna&oh=c79ea22dcf36343a875b3641602b4ff1&oe=61CE7A75)
 
 My name is Mahedi, 22, still a student, looking for a part time job I can do while still at school, ideally working remotely. I’m skilled with PHP and Java, and I am trying to learn other programming languages, step by step. Have two brothers, both of them study at a med school, so it is quite funny that I, as a girl, decided for software engineering. I try to get the most out of my time at the college, and have some edge once I graduate, which is the primary reason why I seek a part time job with you.
 
