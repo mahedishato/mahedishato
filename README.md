@@ -3,7 +3,7 @@
 #### I am a ML Engineer 
 "Aspiring computer science engineer with a strong passion for data science and technology. Focused on expanding my knowledge and skills in machine learning, deep learning, and NLP through hands-on experience and continuous learning. Driven to make a meaningful impact through innovative solutions and seeking opportunities to collaborate with like-minded individuals in dynamic environments. Connect with me to grow and drive progress together."
 
-Skills:  JS / HTML / CSS/ PHP/ C/C# /PYTHON
+Skills:  PYTHON--Machine learning--Deep learning--Django--HTML--CSS-- 
 
 - 🔭 I’m currently working on many project 
 - 🌱 I’m currently learning PYTHON 
