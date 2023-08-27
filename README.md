@@ -8,7 +8,7 @@ Skills:  JS / HTML / CSS/ PHP/ C/C# /PYTHON
 - 🔭 I’m currently working on many project 
 - 🌱 I’m currently learning PYTHON 
 - 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about software development, machine learning , Deep learning , NLP 
+- 💬 Ask me about software development, Machine learning , Deep learning , NLP 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MahediHasanRasel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mahedi-hasan-rasel-a6b7a517b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mehedi182641/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mahedi_hasan_rasel//)  
