@@ -1,9 +1,9 @@
 ### Hi there 👋, I m Mahedi Hasan Rasel
-![I am a ML Enggineer ](https://scontent.fdac27-1.fna.fbcdn.net/v/t1.6435-9/76204104_890681584660511_7069189953564966912_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=174925&_nc_eui2=AeE8V7j9oqEi5AYUpEIqW18cbR1hkR3MSP9tHWGRHcxI_35r0NOkalnuFAl2f57PbmW3kqCMQFylbifJK-XM3FXU&_nc_ohc=FI9pkkAH4cgAX8EoFVl&_nc_ht=scontent.fdac27-1.fna&oh=c79ea22dcf36343a875b3641602b4ff1&oe=61CE7A75)
+![I am a ML Enggineer ]
 #### I am a ML Engineer 
 "Aspiring computer science engineer with a strong passion for data science and technology. Focused on expanding my knowledge and skills in machine learning, deep learning, and NLP through hands-on experience and continuous learning. Driven to make a meaningful impact through innovative solutions and seeking opportunities to collaborate with like-minded individuals in dynamic environments. Connect with me to grow and drive progress together."
 
-Skills:  PYTHON--Machine learning--Deep learning--Django--HTML--CSS-- 
+Skills:  PYTHON--Machine learning--Deep learning--Django--HTML--CSS
 
 - 🔭 I’m currently working on many project 
 - 🌱 I’m currently learning PYTHON 
