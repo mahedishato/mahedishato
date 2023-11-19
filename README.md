@@ -1,13 +1,21 @@
-### Hi there 👋, I m Mahedi Hasan Rasel
-#### I am a ML Engineer 
-"Aspiring computer science engineer with a strong passion for data science and technology. Focused on expanding my knowledge and skills in machine learning, deep learning, and NLP through hands-on experience and continuous learning. Driven to make a meaningful impact through innovative solutions and seeking opportunities to collaborate with like-minded individuals in dynamic environments. Connect with me to grow and drive progress together."
+# Mahedi Hasan Rasel
 
-Skills:  PYTHON--Machine learning--Deep learning--Django--HTML--CSS
+## Summary
+I am a graduate in Computer Science and Engineering with a strong passion for machine learning, deep learning, and data science. I have experience working as an AI engineer at InflexionpointBD Technologies for 4 months and currently working as a Machine Learning Engineer at Business Automation LTD.
 
-- 🔭 I’m currently working on many project 
-- 🌱 I’m currently learning PYTHON 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about software development, Machine learning , Deep learning , NLP 
+## Skills
+- Machine Learning
+- Deep Learning
+- Data Science
+- Python
+- TensorFlow
+- PyTorch
+- Scikit-learn
+- SQL
+- Git
+
+## Education
+- Bachelor of Science in Computer Science and Engineering, [Bangladesh University of Business and technology], [2023]
 
 
 ## 🌐 Socials:
